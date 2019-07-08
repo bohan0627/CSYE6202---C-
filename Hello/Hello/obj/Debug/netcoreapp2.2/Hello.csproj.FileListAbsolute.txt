@@ -1,0 +1,11 @@
+/Users/bohan/Projects/Hello/Hello/bin/Debug/netcoreapp2.2/Hello.deps.json
+/Users/bohan/Projects/Hello/Hello/bin/Debug/netcoreapp2.2/Hello.runtimeconfig.json
+/Users/bohan/Projects/Hello/Hello/bin/Debug/netcoreapp2.2/Hello.runtimeconfig.dev.json
+/Users/bohan/Projects/Hello/Hello/bin/Debug/netcoreapp2.2/Hello.dll
+/Users/bohan/Projects/Hello/Hello/bin/Debug/netcoreapp2.2/Hello.pdb
+/Users/bohan/Projects/Hello/Hello/obj/Debug/netcoreapp2.2/Hello.csprojAssemblyReference.cache
+/Users/bohan/Projects/Hello/Hello/obj/Debug/netcoreapp2.2/Hello.csproj.CoreCompileInputs.cache
+/Users/bohan/Projects/Hello/Hello/obj/Debug/netcoreapp2.2/Hello.AssemblyInfoInputs.cache
+/Users/bohan/Projects/Hello/Hello/obj/Debug/netcoreapp2.2/Hello.AssemblyInfo.cs
+/Users/bohan/Projects/Hello/Hello/obj/Debug/netcoreapp2.2/Hello.dll
+/Users/bohan/Projects/Hello/Hello/obj/Debug/netcoreapp2.2/Hello.pdb

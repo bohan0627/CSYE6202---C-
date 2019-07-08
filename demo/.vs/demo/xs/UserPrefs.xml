@@ -1,0 +1,29 @@
+﻿<Properties StartupConfiguration="{E3860FEC-0F56-4A69-9248-5EFB3723B331}|Default">
+  <MonoDevelop.Ide.ItemProperties.demo FirstBuild="True" PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="../BoHan_SOLID/BoHan_SOLID/Notification.cs">
+    <Files>
+      <File FileName="demo/Program.cs" Line="1" Column="1" />
+      <File FileName="demo/Calculator.cs" Line="8" Column="5" />
+      <File FileName="demo/Complex.cs" Line="11" Column="6" />
+      <File FileName="../BoHan_SOLID/BoHan_SOLID/Company.cs" Line="15" Column="1" />
+      <File FileName="../BoHan_SOLID/BoHan_SOLID/Notification.cs" Line="4" Column="55" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="demo" expanded="True">
+            <Node name="demo" expanded="True">
+              <Node name="Calculator.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

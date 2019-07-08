@@ -1,0 +1,11 @@
+/Users/bohan/Projects/EDemo/EDemo/bin/Debug/netcoreapp2.2/EDemo.deps.json
+/Users/bohan/Projects/EDemo/EDemo/bin/Debug/netcoreapp2.2/EDemo.runtimeconfig.json
+/Users/bohan/Projects/EDemo/EDemo/bin/Debug/netcoreapp2.2/EDemo.runtimeconfig.dev.json
+/Users/bohan/Projects/EDemo/EDemo/bin/Debug/netcoreapp2.2/EDemo.dll
+/Users/bohan/Projects/EDemo/EDemo/bin/Debug/netcoreapp2.2/EDemo.pdb
+/Users/bohan/Projects/EDemo/EDemo/obj/Debug/netcoreapp2.2/EDemo.csprojAssemblyReference.cache
+/Users/bohan/Projects/EDemo/EDemo/obj/Debug/netcoreapp2.2/EDemo.csproj.CoreCompileInputs.cache
+/Users/bohan/Projects/EDemo/EDemo/obj/Debug/netcoreapp2.2/EDemo.AssemblyInfoInputs.cache
+/Users/bohan/Projects/EDemo/EDemo/obj/Debug/netcoreapp2.2/EDemo.AssemblyInfo.cs
+/Users/bohan/Projects/EDemo/EDemo/obj/Debug/netcoreapp2.2/EDemo.dll
+/Users/bohan/Projects/EDemo/EDemo/obj/Debug/netcoreapp2.2/EDemo.pdb

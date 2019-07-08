@@ -1,0 +1,11 @@
+/Users/bohan/Projects/BoHan_SOLID/BoHan_SOLID/obj/Debug/netcoreapp2.2/BoHan_SOLID.csprojAssemblyReference.cache
+/Users/bohan/Projects/BoHan_SOLID/BoHan_SOLID/obj/Debug/netcoreapp2.2/BoHan_SOLID.csproj.CoreCompileInputs.cache
+/Users/bohan/Projects/BoHan_SOLID/BoHan_SOLID/obj/Debug/netcoreapp2.2/BoHan_SOLID.AssemblyInfoInputs.cache
+/Users/bohan/Projects/BoHan_SOLID/BoHan_SOLID/obj/Debug/netcoreapp2.2/BoHan_SOLID.AssemblyInfo.cs
+/Users/bohan/Projects/BoHan_SOLID/BoHan_SOLID/bin/Debug/netcoreapp2.2/BoHan_SOLID.deps.json
+/Users/bohan/Projects/BoHan_SOLID/BoHan_SOLID/bin/Debug/netcoreapp2.2/BoHan_SOLID.runtimeconfig.json
+/Users/bohan/Projects/BoHan_SOLID/BoHan_SOLID/bin/Debug/netcoreapp2.2/BoHan_SOLID.runtimeconfig.dev.json
+/Users/bohan/Projects/BoHan_SOLID/BoHan_SOLID/bin/Debug/netcoreapp2.2/BoHan_SOLID.dll
+/Users/bohan/Projects/BoHan_SOLID/BoHan_SOLID/bin/Debug/netcoreapp2.2/BoHan_SOLID.pdb
+/Users/bohan/Projects/BoHan_SOLID/BoHan_SOLID/obj/Debug/netcoreapp2.2/BoHan_SOLID.dll
+/Users/bohan/Projects/BoHan_SOLID/BoHan_SOLID/obj/Debug/netcoreapp2.2/BoHan_SOLID.pdb

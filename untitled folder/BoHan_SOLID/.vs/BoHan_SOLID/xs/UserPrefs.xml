@@ -1,0 +1,28 @@
+﻿<Properties StartupConfiguration="{B74CBF68-67D1-440D-A356-40AC329AFE23}|Default">
+  <MonoDevelop.Ide.ItemProperties.BoHan__SOLID PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="BoHan_SOLID/ITypeReportGeneration.cs">
+    <Files>
+      <File FileName="BoHan_SOLID/Program.cs" Line="8" Column="10" />
+      <File FileName="BoHan_SOLID/Company.cs" Line="15" Column="1" />
+      <File FileName="BoHan_SOLID/ITypeReportGeneration.cs" Line="11" Column="1" />
+      <File FileName="BoHan_SOLID/Notification.cs" Line="4" Column="55" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="BoHan_SOLID" expanded="True">
+            <Node name="BoHan_SOLID" expanded="True">
+              <Node name="ITypeReportGeneration.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

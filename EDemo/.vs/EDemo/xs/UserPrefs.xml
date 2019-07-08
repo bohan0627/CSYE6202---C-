@@ -1,0 +1,27 @@
+﻿<Properties StartupConfiguration="{71F30297-317C-4AD9-BA73-6FAD369D6A49}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="EDemo/AbstractStore.cs">
+    <Files>
+      <File FileName="EDemo/Program.cs" Line="17" Column="33" />
+      <File FileName="EDemo/AbstractStore.cs" Line="1" Column="1" />
+      <File FileName="EDemo/AbstractStore.cs" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="EDemo" expanded="True">
+            <Node name="EDemo" expanded="True">
+              <Node name="AbstractStore.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.EDemo PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>
